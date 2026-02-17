@@ -18,9 +18,9 @@ Our work bridges discovery, Extension, and applied impact for growers across the
 Our program investigates soybean health as an integrated pathosystem, where soilborne pathogens, foliar diseases, and nematodes interact with host genetics, environment, and management practices across production systems.
 
 ### Pathogen Communities & Emerging Threats
-- Soilborne pathogens including Fusarium spp., Oomycetes (Pythium/Globisporangium/Phytophthora), and nematode–fungal interactions
-- Foliar and stem diseases including Septoria brown spot, Cercospora leaf blight and purple seed stain, frog-eye leaf spot, and white mold
-- Emerging and re-emerging diseases such as red crown rot (Calonectria ilicicola) and shifting pathogen complexes across regions
+- Soilborne pathogens including plant-parasitic nematodes, *Fusarium* spp., *Rhizoctonia solani*, *Macrophomina phaseolina*, Oomycetes (*Pythium*/*Globisporangium*/*Phytophthora*), and nematode–fungal interactions
+- Foliar and stem diseases including Septoria brown spot, Cercospora leaf blight and purple seed stain, frogeye leaf spot, and white mold
+- Emerging and re-emerging diseases such as red crown rot (*Calonectria ilicicola*) and shifting pathogen complexes across regions
 
 ### Population Biology & Adaptation
 - Pathogen and nematode population genetics
