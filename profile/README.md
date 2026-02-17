@@ -13,16 +13,25 @@ Our work bridges discovery, Extension, and applied impact for growers across the
 
 ---
 
-## Research Areas
+## Research Focus
 
-- Soybean cyst nematode (SCN)
-- Root-knot, lesion, and reniform nematodes
-- Sudden death syndrome (SDS)
-- Emerging and re-emerging soybean diseases
-- Population genetics and virulence dynamics
-- Fungicide and nematicide efficacy
-- Field epidemiology and disease forecasting
-- Data-driven decision support tools
+Our program investigates soybean health as an integrated pathosystem, where soilborne pathogens, foliar diseases, and nematodes interact with host genetics, environment, and management practices across production systems.
+
+### Pathogen Communities & Emerging Threats
+- Soilborne pathogens including Fusarium spp., Oomycetes (Pythium/Globisporangium/Phytophthora), and nematode–fungal interactions
+- Foliar and stem diseases including Septoria brown spot, Cercospora leaf blight and purple seed stain, frog-eye leaf spot, and white mold
+- Emerging and re-emerging diseases such as red crown rot (Calonectria ilicicola) and shifting pathogen complexes across regions
+
+### Population Biology & Adaptation
+- Pathogen and nematode population genetics
+- Virulence dynamics and resistance durability
+- Fungicide and nematicide sensitivity shifts and adaptation
+
+### Field Epidemiology & Integrated Management
+- Disease progression across environments and management systems
+- Interaction of host resistance, agronomic practices, and pathogen pressure
+- Data-driven risk assessment and decision-support tools
+- Science-based strategies for sustainable soybean production
 
 ---
 
@@ -42,11 +51,13 @@ We are committed to transparency, reproducibility, and open science.
 
 ## Selected Tools & Projects
 
-- SCN data analysis pipelines  
-- Disease progress modeling scripts  
-- Fungicide sensitivity workflows  
-- Population genetic analyses  
-- Extension-ready visualization tools  
+- Epidemiological modeling pipelines for soilborne and foliar disease progression  
+- Pathogen and nematode population genetic analysis workflows  
+- Fungicide and nematicide sensitivity monitoring scripts  
+- Integrated disease risk assessment models  
+- Economic and profitability analysis tools for soybean disease management  
+- Decision-support applications (e.g., SCN management and yield protection tools)  
+- Extension-ready visualization and reporting frameworks   
 
 (See repositories for individual project documentation.)
 
