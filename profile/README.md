@@ -1,3 +1,6 @@
+[![Open Science](https://img.shields.io/badge/open%20science-committed-brightgreen.svg)](#)
+[![Reproducibility](https://img.shields.io/badge/reproducibility-principled-blue.svg)](#)
+
 # LopezNicoraLab
 
 Soybean Pathology & Nematology Research  
